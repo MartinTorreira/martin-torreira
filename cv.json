@@ -188,8 +188,8 @@
       "description": "Aplicación web para gestionar carteleras de un cine",
       "highlights": [
         "Proyecto de carrera",
-        "Terminado",
         "Java & Javascript",
+        "React",
         "Redux"
       ],
       "url": "https://github.com/MartinTorreira/Billboard-Manager"
@@ -210,11 +210,13 @@
     {
       "name": "Photogram",
       "isActive": false,
-      "description": "Aplicación web .NET en donde se publican y comentan fotos",
+      "description": "Aplicación web .NET en donde los usuarios pueden publicar, comentar y buscar fotos.",
       "highlights": [
         "Proyecto de carrera",
         ".NET",
-        "C#", "SQL"
+        "C#", 
+        "ASP.NET",
+        "SQL-Server"
       ],
       "url": "https://github.com/MartinTorreira"
     },
@@ -224,7 +226,8 @@
       "description": "Código basado en la concurrencia para la gestión de operaciones bancarias",
       "highlights": [
         "C",
-        "Concurrencia"
+        "Concurrencia",
+        "Pararelismo"
       ],
       "url": "https://github.com/MartinTorreira/bank-manager"
     },
@@ -233,8 +236,8 @@
       "isActive": false,
       "description": "Aplicación de escritorio para gestionar posibles casos covid",
       "highlights": [
-        "Proyecto de carrera",
-        "Python"
+        "Python",
+        "Desktop app"
       ],
       "url": "https://github.com/MartinTorreira/covid-19-desktop-app",
       "github": ""
@@ -245,7 +248,7 @@
       "description": "Aplicación mobile-first para gestionar las citas de un centro de médico",
       "highlights": [
         "Flutter",
-        "Aplicación híbrida"
+        "Híbrida"
       ],
       "url": "https://github.com/MartinTorreira/flutter-app"
     }
