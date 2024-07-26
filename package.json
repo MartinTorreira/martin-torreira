@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.5.9",
+    "astro": "^4.12.2",
     "hotkeypad": "^0.1.1",
     "ninja-keys": "^1.2.2",
     "reset-css": "^5.0.2"
